@@ -83,6 +83,11 @@ footer {
   text-align: center;
 }
 
+.links-container:hover {
+  background-color: white;
+  color: rgb(66, 110, 255);
+}
+
 .links-container p {
   margin-bottom: 0;
   padding-bottom: 0;
